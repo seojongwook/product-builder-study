@@ -1,0 +1,15 @@
+{
+  "name": "lotto-generator",
+  "version": "1.0.0",
+  "description": "Lotto Number Generator",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx http-server -o"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
